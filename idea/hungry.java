@@ -22,3 +22,5 @@ public class ArmstrongNumber {
 			System.out.println("Given number is not an armstrong number.");
 	}
 }
+
+// new modifications added here only , check whether it is reflected in the github or not.
