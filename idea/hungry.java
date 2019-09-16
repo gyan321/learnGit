@@ -23,4 +23,6 @@ public class ArmstrongNumber {
 	}
 }
 
-// new modifications added here only , check whether it is reflected in the github or not.
+// new modifications added here only , check whether it is reflected in the github or not.irsty
+
+//changes done through thirsty branch  
