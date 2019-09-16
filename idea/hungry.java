@@ -26,3 +26,5 @@ public class ArmstrongNumber {
 // new modifications added here only , check whether it is reflected in the github or not.irsty
 
 //changes done through thirsty branch  
+
+//this is slave branch changes commit use to merge the code with the master
