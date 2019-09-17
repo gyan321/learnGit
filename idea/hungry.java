@@ -26,6 +26,9 @@ public class ArmstrongNumber {
 
 // new modifications added here only , check whether it is reflected in the github or not.
 
-//this is master branch changes commit use to merge the code with the branch
-// This is from master branch retrying to merge the code from master branch with thirsty branch.
-// This is from master branch retrying to merge the code from master branch with thirsty branch again using meld tool
+//changes done through thirsty branch  
+
+//this is slave branch changes commit use to merge the code with the master
+
+
+//this is from slave branch trying again to merge with main branch by putting in another line.
