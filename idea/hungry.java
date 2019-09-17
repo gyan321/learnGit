@@ -28,3 +28,6 @@ public class ArmstrongNumber {
 //changes done through thirsty branch  
 
 //this is slave branch changes commit use to merge the code with the master
+
+
+//this is from slave branch trying again to merge with main branch by putting in another line.
