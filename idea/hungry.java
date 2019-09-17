@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 public class ArmstrongNumber {
 	@SuppressWarnings("resource")
-	public static void main(String args[]) {
+	public static void main(String args[]) {   
 		int number = 153;
+		int newNumber=10;
 		int check, remainder, sum = 0;
 		System.out.println("Enter the number to be verified:");
 		Scanner sc = new Scanner(System.in);
@@ -27,3 +28,4 @@ public class ArmstrongNumber {
 
 //this is master branch changes commit use to merge the code with the branch
 // This is from master branch retrying to merge the code from master branch with thirsty branch.
+// This is from master branch retrying to merge the code from master branch with thirsty branch again using meld tool
